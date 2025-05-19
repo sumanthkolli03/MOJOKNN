@@ -4,7 +4,7 @@
 * _Email: sumanthkolli03@gmail.com_
 * _Email: signaclee@gmail.com_
 
-`Run in mojo 25.1.1`
+`Run in mojo 25.1.1` <br>
 `Copy necessary files into your magic environment, and run as needed. Note that files (data) may not be in the same directories as needed to run.`
 
 ### Split.mojo
