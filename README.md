@@ -11,8 +11,7 @@
 Contains the code used to split data into training and testing sets.
 
 ### csv.mojo
-Contains the code used to load data into Lists. Note that most of the KNN program uses Matrices, as they are built to use vectorization and SIMD.  
-Also, there is a known bug within mojo that doesn't allow dynamic allocation of fix-length structs. This does unfortunately have to be hard coded to your data size before-hand.
+Contains the code used to load data into Lists. Note that most of the KNN program uses Matrices, as they are built to use vectorization and SIMD. Also, there is a known bug within mojo that doesn't allow dynamic allocation of fix-length structs. This does unfortunately have to be hard coded to your data size before-hand.
 
 ### KNN.mojo
 Contains the code to run your own KNN! Functionality includes returning all points' predicted classes.  
