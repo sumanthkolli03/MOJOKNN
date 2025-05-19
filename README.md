@@ -1,11 +1,13 @@
 # Mojo-based KNN
 
+A simple, fast implementation of a brute-force K-Nearest Neighbors (KNN) algorithm written in [Mojo](https://www.modular.com/mojo). Designed as part of Dr. Han's Data Science and AI Innovation Lab.
+
 ## Contact:
 * _Email: sumanthkolli03@gmail.com_
 * _Email: signaclee@gmail.com_
 
 `Run in mojo 25.1.1` <br>
-`Copy necessary files into your magic environment, and run as needed. Note that files (data) may not be in the same directories as needed to run.`
+`Copy necessary files into your magic environment, and run as needed. All the following code is in native mojo, so there should be no dependencies. Python test files may require sk-learn and numpy installs. Note that files (data) may not be in the same directories as needed to run.`
 
 ### Split.mojo
 Contains the code used to split data into training and testing sets.
