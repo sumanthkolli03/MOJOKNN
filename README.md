@@ -4,8 +4,8 @@
 * _Email: sumanthkolli03@gmail.com_
 * _Email: signaclee@gmail.com_
 
-`Run in mojo 25.1.1`  
-`Copy necessary files into your magic environment, and run as needed. Note that files may not be in the same directories as needed to run.`
+`Run in mojo 25.1.1`
+`Copy necessary files into your magic environment, and run as needed. Note that files (data) may not be in the same directories as needed to run.`
 
 ### Split.mojo
 Contains the code used to split data into training and testing sets.
