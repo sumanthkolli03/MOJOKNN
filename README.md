@@ -22,9 +22,12 @@ Copy necessary files into your magic environment, and run as needed. Note that f
     * Distance from points
     * Different distance metrics (manhattan, cosine, etc.)
     * Different algorithms (Ball-Tree, KD-Tree)
+    * QOL: better outputting and data loading
+    Note that you may have to change some of the hardcoded lines like data and training sizes. We would like this to be parametric, or possible to enter easily, but unfortunately bugs in the MOJO compiler prevent this from working. UPDATE 5/19/25: This issue has been recognized by the mojo devs, and they are working on it.
 
 ### /Tests
-    Contains different tests primarily used for speedtesting. Try them out yourself!
+    Contains slightly outdated tests primarily used for speedtesting. Try them out yourself!
+    These are the same tests present in our paper: <insert link>
 
 ### /Data
-    Contains Iris and MNIST-784 data. Note that you may have to unzip MNIST data yourself.
+    Contains code used to download all the datasets. Try it out yourself!
