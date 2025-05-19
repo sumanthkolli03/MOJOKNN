@@ -1,6 +1,6 @@
 # Mojo-based KNN
 
-A simple, fast implementation of a brute-force K-Nearest Neighbors (KNN) algorithm written in [Mojo](https://www.modular.com/mojo). Designed as part of Dr. Han's Data Science and AI Innovation Lab.
+A simple, fast implementation of a brute-force K-Nearest Neighbors (KNN) algorithm written in [Mojo](https://www.modular.com/mojo). Designed as part of Dr. Han's Data Science and AI Innovation Lab. [PAPER LINK HERE]
 
 ## Contact:
 * _Email: sumanthkolli03@gmail.com_
