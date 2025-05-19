@@ -6,7 +6,7 @@
 
 
 Run in mojo 25.1.1
-Copy necessary files into your magic environment, and run as needed. Note that files may not be in the same directories as needed to run.
+`Copy necessary files into your magic environment, and run as needed. Note that files may not be in the same directories as needed to run.`
 
 
 ### Split.mojo
